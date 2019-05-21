@@ -67,7 +67,7 @@ const ProfileTop = ({
                         target='_blank'
                         rel='noopener noreferrer'
                     >
-                        <i classNameName='fab fa-instagram fa-2x' />
+                        <i className='fab fa-instagram fa-2x' />
                     </a>
                 )}
             </div>
