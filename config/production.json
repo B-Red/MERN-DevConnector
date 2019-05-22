@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://bred123:bred@devconnector-x8esy.mongodb.net/test?retryWrites=true",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "ca133a3a6a4797d1123e",
+    "githubSecret": "61e33ddace7b239bd0d4ffd423702a39d3271de7"
+}
