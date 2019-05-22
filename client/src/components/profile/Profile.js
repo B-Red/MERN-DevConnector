@@ -12,7 +12,7 @@ import { getProfileById } from '../../actions/profile';
 
 const Profile = ({
     getProfileById,
-    profile: { profile, loaoding },
+    profile: { profile, loading },
     auth,
     match
 }) => {
@@ -22,7 +22,7 @@ const Profile = ({
 
     return (
         <Fragment>
-            {profile === null || loaoding ? (
+            {profile === null || loading ? (
                 <Spinner />
             ) : (
                 <Fragment>
