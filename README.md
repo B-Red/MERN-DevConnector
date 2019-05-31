@@ -12,8 +12,9 @@ Feel free to create an account to test the functionality of the site.
 * MongoDB
 
 ## Demo
-![](tasklist.gif)
 
+### The Landing page
+![](devcon1.gif)
 
-
-[Deployed Site](https://reds-mern-devconnector.herokuapp.com/)
+### Profile Dashboard
+![](devcon2.gif)
