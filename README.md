@@ -10,6 +10,8 @@ Feel free to create an account to test the functionality of the site.
 * node.js
 * express.js
 * MongoDB
+* bcrypt
+* JSONWebToken
 
 ## Demo
 
@@ -18,5 +20,10 @@ This page is a basic layout for signing up or logging in to the site. From this 
 
 ![](devcon1.gif)
 
-### Profile Dashboard
+### Create-Profile Dashboard
+Here is where the newly registered user will set up their basic profile information.
 ![](devcon2.gif)
+
+After the user inputs their profile info. They will be directed to the user dashboard with the ability to add Education and Work Experience.
+
+![](devcon3.gif)
