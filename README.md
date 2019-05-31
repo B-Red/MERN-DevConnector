@@ -14,6 +14,8 @@ Feel free to create an account to test the functionality of the site.
 ## Demo
 
 ### The Landing page
+This page is a basic layout for signing up or logging in to the site. From this page the user can navigate to current developer profiles, registration, and login pages. Navigation for the entire site is done through React Router.
+
 ![](devcon1.gif)
 
 ### Profile Dashboard
