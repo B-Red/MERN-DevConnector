@@ -29,6 +29,10 @@ After the user inputs their profile info. They will be directed to the user dash
 ![](devcon3.gif)
 
 Completed Profile Dashboard:
+
 ![](devcon5.gif)
 
-### 
+### User Profiles View
+Once the user has completed their profile setup they can see how it looks by going to the developers link and finding their profile. The individual profile page will show the basic information input into the create-profile page, the users avatar which is pulled from Gravatar, as well as five of the users most recent Github repos.
+
+![](devcon6.gif)
