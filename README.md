@@ -26,4 +26,9 @@ Here is where the newly registered user will set up their basic profile informat
 
 After the user inputs their profile info. They will be directed to the user dashboard with the ability to add Education and Work Experience.
 
-![](devcon3.gif)![](devcon5.gif)
+![](devcon3.gif)
+
+Completed Profile Dashboard:
+![](devcon5.gif)
+
+### 
